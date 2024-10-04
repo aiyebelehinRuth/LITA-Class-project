@@ -45,3 +45,4 @@ This is where we include some basic lines of code or queries expressions used du
 SELECT * FROM TABLE1
 WHERE CONDITION = TRUE
 '''
+### Data visualization
