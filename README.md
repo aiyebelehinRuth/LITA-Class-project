@@ -9,11 +9,16 @@ we were taught the foundations of data, storing of data, how to generate data,Da
 SQL, Access, Web.
 
 ### Tools Used:
-Microsoft Excel 
+Microsoft Excel[Download Here].(https:\\www.microsoft.com)
+
 1. for data cleaning
 2. for analysis
 3. for data visualization
-
 SQL- Structured Query Language for querying of data.
-
 Github for portfolio building.
+
+### Data Cleaning and preparations
+In the initial phase of the data cleaning and preparations, we perform the following actions;
+1. Data loading and inspection
+2. Handling missing variables
+3. Data cleaning and formatting.
