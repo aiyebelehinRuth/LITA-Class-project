@@ -31,3 +31,11 @@ EDA involved the exploring of the data to answer some questions about the data s
 -which product are top sellers
 
 -what are the products on peak sales?
+
+### Data Visualization
+This is where we include some basic lines of code or queries expressions used during my analysis;
+
+'''SQL
+SELECT * FROM TABLE1
+WHERE CONDITION = TRUE
+'''
