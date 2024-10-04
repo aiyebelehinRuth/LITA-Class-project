@@ -47,3 +47,11 @@ WHERE CONDITION = TRUE
 '''
 ### Data visualization
 
+![IMG_20240914_151048_344](https://github.com/user-attachments/assets/852cad07-f5a8-4ea9-8f7a-db0fe3045398)
+
+💻
+🥊
+😆
+🙏
+
+
