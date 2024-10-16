@@ -42,10 +42,12 @@ EDA involved the exploring of the data to answer some questions about the data s
 ---
 This is where we include some basic lines of code or queries expressions used during my analysis;
 
-'''SQL
-SELECT * FROM TABLE1
-WHERE CONDITION = TRUE
+'''  SQL
+select*from Table1
+ WHERE
+CONDITION = TRUE
 '''
+
 ### Data visualization
 
 ![IMG_20240914_151048_344](https://github.com/user-attachments/assets/852cad07-f5a8-4ea9-8f7a-db0fe3045398)
