@@ -32,11 +32,11 @@ In the initial phase of the data cleaning and preparations, we perform the follo
 ---
 EDA involved the exploring of the data to answer some questions about the data such as;
 
--What is the overall sales trend
+-  What is the overall sales trend
 
--which product are top sellers
+-  which product are top sellers
 
--what are the products on peak sales?
+-  what are the products on peak sales?
 
 ### Data Visualization
 ---
