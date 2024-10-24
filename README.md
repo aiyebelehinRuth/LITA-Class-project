@@ -42,11 +42,10 @@ EDA involved the exploring of the data to answer some questions about the data s
 ---
 This is where we include some basic lines of code or queries expressions used during my analysis;
 
-'''  SQL
-select*from Table1
- WHERE
-CONDITION = TRUE
-'''
+  '''SQL
+SELECT * FROM TABLE1
+ WHERE CONDITION = TRUE
+   '''
 
 ### Data visualization
 
