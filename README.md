@@ -8,7 +8,9 @@ we were taught the foundations of data, storing of data, how to generate data,Da
 
 ### Data Sources:
 ---
-SQL, Access, Web.
+- SQL
+- Access
+- Web.
 
 ### Tools Used:
 ---
